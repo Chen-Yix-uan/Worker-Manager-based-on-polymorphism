@@ -1,0 +1,7 @@
+﻿  workerManager.cpp
+c:\users\administrator\documents\project\基于多态的职工管理系统\基于多态的职工管理系统\workermanager.cpp(24): error C2059: 语法错误:“:”
+c:\users\administrator\documents\project\基于多态的职工管理系统\基于多态的职工管理系统\workermanager.cpp(24): error C2588: “::~WorkerManager”: 非法的全局 析构函数
+c:\users\administrator\documents\project\基于多态的职工管理系统\基于多态的职工管理系统\workermanager.cpp(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+c:\users\administrator\documents\project\基于多态的职工管理系统\基于多态的职工管理系统\workermanager.cpp(27): warning C4508: “WorkerManager”: 函数应返回一个值；假定“void”返回类型
+  职工管理系统.cpp
+  正在生成代码...
